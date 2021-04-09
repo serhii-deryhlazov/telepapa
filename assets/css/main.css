@@ -1,20 +1,5 @@
 .container{
     height: 100vh;
-}
-
-#gifcard .container img{
-    margin: 5% 5%;
-    width: auto;
-    height: 90%;
-    border-radius: 1rem;
-}
-
-.card{
-    height: 80vh;
-    margin: 10vh 0;
-}
-
-.body {
     background: linear-gradient(239deg, #52b69a, #34a0a4, #168aad, #1a759f, #1e6091, #184e77, #184e77, #184e77, #1e6091, #1a759f, #168aad, #34a0a4, #52b69a);
     background-size: 2600% 2600%;
 
@@ -37,4 +22,16 @@
     0%{background-position:0% 96%}
     50%{background-position:100% 5%}
     100%{background-position:0% 96%}
+}
+
+#gifcard .container img{
+    margin: 5% 5%;
+    width: auto;
+    height: 90%;
+    border-radius: 1rem;
+}
+
+#card-1{
+    height: 80vh;
+    margin: 10vh 0;
 }
