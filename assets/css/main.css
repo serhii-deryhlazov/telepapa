@@ -2,6 +2,14 @@
     height: 100vh;
 }
 
-#gifcard container img{
-    
+#gifcard .container img{
+    margin: 5% 5%;
+    width: auto;
+    height: 90%;
+    border-radius: 1rem;
+}
+
+.card{
+    height: 80vh;
+    margin: 10vh 0;
 }
