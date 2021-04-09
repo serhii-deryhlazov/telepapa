@@ -1,5 +1,6 @@
 .container{
     height: 100vh;
+    width: 100vw;
     background: linear-gradient(239deg, #52b69a, #34a0a4, #168aad, #1a759f, #1e6091, #184e77, #184e77, #184e77, #1e6091, #1a759f, #168aad, #34a0a4, #52b69a);
     background-size: 2600% 2600%;
 
