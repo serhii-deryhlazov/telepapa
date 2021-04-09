@@ -35,8 +35,9 @@
 #card-1{
     height: 80vh;
     margin: 10vh 0;
+    display: flex;
 }
 
 #botfather{
-    float: right;
+    
 }
